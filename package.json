@@ -1,0 +1,21 @@
+{
+  "name": "tron-phaser",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@vitejs/plugin-legacy": "^5.4.2",
+    "rollup-plugin-obfuscator": "^1.1.0",
+    "terser": "^5.33.0",
+    "vite": "^5.4.7"
+  }
+}
